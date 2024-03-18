@@ -1,0 +1,5 @@
+<resources>
+    <color name="black">#000000</color>
+    <color name="amber">#FFC107</color> <!-- You can adjust the color value as needed -->
+    <color name="white">#FFFFFF</color>
+</resources>
